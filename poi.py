@@ -1,7 +1,6 @@
-print("[START] Health Check") # start
+import time
+
 
 while True:
     print("System Validation.....")
-
-print("[END] Health Check") # end
-
+    time.sleep(0.25)
